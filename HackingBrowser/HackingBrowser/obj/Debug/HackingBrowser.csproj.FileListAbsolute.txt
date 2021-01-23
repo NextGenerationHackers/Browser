@@ -1,0 +1,11 @@
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\bin\Debug\HackingBrowser.exe.config
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\bin\Debug\HackingBrowser.exe
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\bin\Debug\HackingBrowser.pdb
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\obj\Debug\HackingBrowser.csprojAssemblyReference.cache
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\obj\Debug\HackingBrowser.Browser.resources
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\obj\Debug\HackingBrowser.Form1.resources
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\obj\Debug\HackingBrowser.Properties.Resources.resources
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\obj\Debug\HackingBrowser.csproj.GenerateResource.cache
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\obj\Debug\HackingBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\obj\Debug\HackingBrowser.exe
+C:\Users\Tiffany and Alfredo\source\repos\HackingBrowser\HackingBrowser\obj\Debug\HackingBrowser.pdb
